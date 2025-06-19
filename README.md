@@ -11,6 +11,14 @@
     * [Bluesky](https://bsky.app/profile/yuukikonno.mastodon.social.ap.brid.gy)
     * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
 
+## Hashtags
+
+[#history](https://x.com/search?q=%23history+from%3Ayuuki26&f=live)
+
+### Japanese
+
+[#歴史](https://x.com/search?q=%23%E6%AD%B4%E5%8F%B2+from%3Ayuuki170&f=live)
+
 ## Archives
 
 <details>
