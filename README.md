@@ -13,11 +13,11 @@
 
 ## Hashtags
 
-[#history](https://x.com/search?q=%23history+from%3Ayuuki26&f=live)
+* [#history](https://x.com/search?q=%23history+from%3Ayuuki26&f=live) · [Twilog](https://twilog.togetter.com/yuuki26/hashtags-history) · [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view?q=%23history)
 
 ### Japanese
 
-[#歴史](https://x.com/search?q=%23%E6%AD%B4%E5%8F%B2+from%3Ayuuki170&f=live)
+* [#歴史](https://x.com/search?q=%23%E6%AD%B4%E5%8F%B2+from%3Ayuuki170&f=live) · [Twilog](https://twilog.togetter.com/yuuki170/hashtags-%E6%AD%B4%E5%8F%B2)
 
 ## Archives
 
