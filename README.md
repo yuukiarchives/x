@@ -1,4 +1,4 @@
-# 🚨 See [Twilog](https://twilog.togetter.com/yuuki26) <sub>([jpn](https://twilog.togetter.com/yuuki170))</sub> if X is down. 🚨
+# 🚨 See [Twilog](https://twilog.togetter.com/yuuki26) <sub>([jpn](https://twilog.togetter.com/yuuki170))</sub> if X is down 🚨
 
 * [@yuuki26](https://x.com/i/user/1463770680491593729) · [jpn](https://x.com/i/user/1672629051419410435)
 
