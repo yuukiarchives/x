@@ -1,7 +1,7 @@
 # 🚨 See [Twilog](https://twilog.togetter.com/yuuki26) <sub>([jpn](https://twilog.togetter.com/yuuki170))</sub> if X is down. 🚨
 
 * [@yuuki26](https://x.com/i/user/1463770680491593729) (ID: 1463770680491593729)
-    * jpn: [@yuuki170](https://x.com/i/user/1672629051419410435) (ID: 1672629051419410435)
+    * Japanese: [@yuuki170](https://x.com/i/user/1672629051419410435) (ID: 1672629051419410435)
 
 ## Alternative frontends
 
