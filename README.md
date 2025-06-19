@@ -5,8 +5,8 @@
 
 ## Alternative frontends
 
-* [Twilog](https://twilog.togetter.com/yuuki26) · [jpn](https://twilog.togetter.com/yuuki170)
-* [Nitter](https://farside.link/nitter/i/user/1463770680491593729) · [jpn](https://farside.link/nitter/i/user/1672629051419410435)
+* [Twilog](https://twilog.togetter.com/yuuki26) <sub>([jpn](https://twilog.togetter.com/yuuki170))</sub>
+* [Nitter](https://farside.link/nitter/i/user/1463770680491593729) <sub>([jpn](https://farside.link/nitter/i/user/1672629051419410435))</sub>
 * [Mastodon](https://mastodon.social/@yuukikonno) (English only)
     * [Bluesky](https://bsky.app/profile/yuukikonno.mastodon.social.ap.brid.gy)
     * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
