@@ -23,7 +23,7 @@
 
 </details>
 
-## Old accounts
+## Old account
 
 <details>
 <summary>[show]</summary>
