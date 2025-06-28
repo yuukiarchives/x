@@ -8,6 +8,7 @@
 * [#cooking](https://x.com/search?q=%23cooking+from%3Ayuuki26&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki26/hashtags-cooking) · [notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view?q=%23cooking))</sub>
 * [#english](https://x.com/search?q=%23english+from%3Ayuuki26&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki26/hashtags-english) · [notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view?q=%23english))</sub>
 * [#history](https://x.com/search?q=%23history+from%3Ayuuki26&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki26/hashtags-history) · [notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view?q=%23history))</sub>
+* [#kanji](https://x.com/search?q=%23kanji+from%3Ayuuki26&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki26/hashtags-kanji) · [notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view?q=%23kanji))</sub>
 * [#math](https://x.com/search?q=%23math+from%3Ayuuki26&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki26/hashtags-math) · [notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view?q=%23math))</sub>
 * [#mistakes](https://x.com/search?q=%23mistakes+from%3Ayuuki26&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki26/hashtags-mistakes) · [notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view?q=%23mistakes))</sub>
 
@@ -19,6 +20,7 @@
 * [#料理](https://x.com/search?q=%23%E6%96%99%E7%90%86+from%3Ayuuki170&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki170/hashtags-%E6%96%99%E7%90%86))</sub>
 * [#英語](https://x.com/search?q=%23%E8%8B%B1%E8%AA%9E+from%3Ayuuki170&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki170/hashtags-%E8%8B%B1%E8%AA%9E))</sub>
 * [#歴史](https://x.com/search?q=%23%E6%AD%B4%E5%8F%B2+from%3Ayuuki170&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki170/hashtags-%E6%AD%B4%E5%8F%B2))</sub>
+* [#漢字](https://x.com/search?q=%23%E6%BC%A2%E5%AD%97+from%3Ayuuki170&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki170/hashtags-%E6%BC%A2%E5%AD%97))</sub>
 * [#数学](https://x.com/search?q=%23%E6%95%B0%E5%AD%A6+from%3Ayuuki170&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki170/hashtags-%E6%95%B0%E5%AD%A6))</sub>
 * [#失敗](https://x.com/search?q=%23%E5%A4%B1%E6%95%97+from%3Ayuuki170&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki170/hashtags-%E5%A4%B1%E6%95%97))</sub>
 
